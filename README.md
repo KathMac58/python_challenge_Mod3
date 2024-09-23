@@ -70,8 +70,3 @@ Included in this repo you will find:
         • Screenshot of terminal with working solution
 
     • Resources Folder comprised of the file used to solve the challenge
-<<<<<<< HEAD
-    
-=======
-    
->>>>>>> a38a4ddae6c10bb91e86e4013c91fc0e532d2426
